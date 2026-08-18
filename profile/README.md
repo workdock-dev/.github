@@ -6,4 +6,4 @@ It connects the tools you already use — your issue tracker, Git provider, codi
 
 WorkDock came from a question I kept returning to while building with AI agents: how do we apply the engineering practices we've spent decades refining to this new way of working?
 
-[Why WorkDock exists](https://docs.workdock.dev/what-is-workdock)
+[Read More](https://docs.workdock.dev/what-is-workdock)
